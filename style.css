@@ -1,0 +1,26 @@
+body{
+    background-color: black;
+}
+img{
+    width: 100px;
+    
+}
+h1{
+      text-decoration: none;
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    text-align: center;
+}
+#a{
+    text-decoration: none;
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    position: absolute;
+}
+embed{
+    width: 700px;
+    height: 400px;
+    margin-left: 300px;
+}
